@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
+
+#EXTINF:-1 tvg-id="0105" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/mega.svg" group-title="Chile",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
+
+#EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/chilevision.svg" group-title="Chile",Chilevisión
+https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist_4000.m3u8?dpssid=b218330038826abc504e5e54b&sid=ba5t1l1xb26344890576abc504e5e549&ndvc=1
+
+#EXTINF:-1 tvg-id="0107" tvg-name="Canal 13" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/canal13.svg" group-title="Chile",Canal 13
+https://dai.google.com/linear/hls/pa/event/nthipJzGQY-A-N0t6xCZhA/stream/c10cec78-a667-4d1d-aad1-387ca11d7b9f:SCL2/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8
+
+#EXTINF:-1 tvg-id="0124" tvg-name="T13" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/T13.svg" group-title="Chile",T13
+https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_2000.m3u8?dpssid=3f1b05b9f8e8d6cc04ab4f895c698eef&sid=ba5t1l1xb217820365216abc51ba4feb8&ndvc=0
+
+#EXTINF:-1 tvg-id="0104" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/tvn.svg" group-title="Chile",TVN
+http://138.121.15.230:9002/TVN/index.m3u8
+
+#EXTINF:-1 tvg-id="0201" tvg-name="24 Horas" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/24horas.svg" group-title="Chile",24 Horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+
+#EXTINF:-1 tvg-id="0301" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/ntv.svg" group-title="Chile",NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+
+#EXTINF:-1 tvg-id="0117" tvg-name="TVN 3" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/tvn3.svg" group-title="Chile",TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/tvchile.svg" group-title="Chile",TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 tvg-id="0103" tvg-name="TV+" tvg-logo="https://raw.githubusercontent.com/Camilo-Alarcon/iptv-chile/refs/heads/main/logos/tvmas.svg" group-title="Chile",TV+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
